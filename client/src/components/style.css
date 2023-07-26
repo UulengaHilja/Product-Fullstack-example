@@ -1,0 +1,124 @@
+.bannerContainer1{   
+    background-image: url('https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/G-ClassModelImage.jpg&w=730&h=484&q=75&c=1');   
+    background-position: 5%;
+  }
+  .bannerContainer2{   
+    background-image: url(../images/banner2.jpg);   
+    background-position: 25%;
+  }
+  .bannerContainer3{   
+    background-image: url(../images/banner3.jpg);   
+    background-position: 25%;
+  }
+
+  .imagePosition{
+    height: 500px;    
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+  }
+
+  .title2{
+    color: white;
+  }
+  
+  .banner{
+    width: 100%;
+    height: 400px;
+  }
+
+  .card{
+    background-color: #373783;
+    padding-left: 58px;
+    padding-right: 58px;
+    margin: 20px;
+  }
+  .cardContent{
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 32px;
+    text-transform: uppercase;
+    line-height: 1.4;
+  }
+  .price{
+    font-size: 50px!important;
+    color: #ab9a9a!important;
+  }
+  .location, .description{
+    padding-left: 30px;
+    margin-right: 20px;
+    margin-bottom: 0;
+    line-height: 28px;
+  }
+
+  .loginform, .signupform {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+
+  .css-md26zr-MuiInputBase-root-MuiOutlinedInput-root{
+    margin: 10px!important;
+  }
+  
+  .loginform input, .signupform input {
+    margin-bottom: 16px;
+  }
+
+  .css-hip9hq-MuiPaper-root-MuiAppBar-root
+  {background-color: #ab9a9a !important;}
+  
+  .loginform button, .signupform button {
+    margin-top: 16px;
+  }
+
+  .navLink{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+  }
+  
+  .footer{
+    position: absolute;
+    bottom: 0;
+    width: 98%;
+    background-color: #ab9a9a!important;
+    color: white;
+  }
+
+  /* .car-text, .car-text4 {
+    text-align: center;
+    position: relative;
+    top: 60%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  .car-text2{
+    text-align: center;
+    position: relative;
+    top: 60%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
+  .car-text button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 10px 25px;
+    color: black;
+    background-color: #ddd;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .car-text button:hover {
+    background-color: #555;
+    color: white;
+  } */
